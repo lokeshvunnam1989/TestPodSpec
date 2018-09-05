@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ZizeraSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.3'
   s.summary          = 'Provide description about ZizeraSDK'
   s.swift_version    = '3.2'
   s.homepage         = 'https://zizera.com/'
