@@ -1,0 +1,45 @@
+{
+    "asset_dimensions": [
+                         {
+                         "height": 120,
+                         "name": "XS",
+                         "width": 120
+                         },
+                         {
+                         "height": 240,
+                         "name": "S",
+                         "width": 240
+                         },
+                         {
+                         "height": 320,
+                         "name": "M",
+                         "width": 320
+                         },
+                         {
+                         "height": 640,
+                         "name": "L",
+                         "width": 640
+                         },
+                         {
+                         "height": 800,
+                         "name": "XL",
+                         "width": 800
+                         },
+                         {
+                         "height": 1200,
+                         "name": "2XL",
+                         "width": 1200
+                         },
+                         {
+                         "height": 1600,
+                         "name": "3XL",
+                         "width": 1600
+                         },
+                         {
+                         "height": 2048,
+                         "name": "4XL",
+                         "width": 2048
+                         }
+                         ]
+}
+

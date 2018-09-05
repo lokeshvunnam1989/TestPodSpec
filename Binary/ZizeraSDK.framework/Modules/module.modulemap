@@ -1,0 +1,11 @@
+framework module ZizeraSDK {
+  umbrella header "ZizeraSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module ZizeraSDK.Swift {
+    header "ZizeraSDK-Swift.h"
+    requires objc
+}

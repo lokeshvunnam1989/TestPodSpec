@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>button</key>
+	<dict>
+		<key>DONE</key>
+		<string>Done</string>
+		<key>YES</key>
+		<string>Yes</string>
+		<key>NO</key>
+		<string>No</string>
+		<key>PAUSE</key>
+		<string>Pause</string>
+		<key>RESUME</key>
+		<string>Resume</string>
+		<key>OK</key>
+		<string>Ok</string>
+		<key>CLOSE</key>
+		<string>Close</string>
+		<key>NEXT</key>
+		<string>Next</string>
+		<key>CANCEL</key>
+		<string>Cancel</string>
+		<key>COPY</key>
+		<string>COPY</string>
+		<key>COPY_URL</key>
+		<string>COPY URL</string>
+	</dict>
+	<key>dialogue</key>
+	<dict>
+		<key>NO_NETWORK_ALERT_TEXT</key>
+		<string>Network connection currently unavailable. Please try again later.</string>
+		<key>NO_INTERNET</key>
+		<string>Internet connection is not available</string>
+		<key>APP_VIEWER_UPDATE_ALERT_TITLE</key>
+		<string>Updates available</string>
+		<key>APP_VIEWER_UPDATE_NOTIFICATION_TEXT</key>
+		<string>To install updates tap OK</string>
+		<key>ZIZERA_UNKNOWN_ERROR</key>
+		<string>We’re sorry for the interruption. Please check again later.</string>
+	</dict>
+</dict>
+</plist>
